@@ -1,2 +1,2 @@
-# Repositorio para prácticar git pull
+# Repositorio para prácticar git pull (DevOps)
 Repo para prácticar el comando git pull.
